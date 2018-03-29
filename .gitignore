@@ -1,0 +1,27 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### ECV ###
+src/main/view/node_modules/
+src/main/view/gulp/
+src/main/resources/public/
+src/main/resources/static/
+
+
+### log ###
+LOG_PATH_IS_UNDEFINED
+logs
